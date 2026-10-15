@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Formulário Bootstrap
 
 A Pen created on CodePen.
@@ -32,3 +33,7 @@ Todos os campos estão organizados em um layout responsivo com a grid system do 
 2. Abra o arquivo `index.html` em qualquer navegador moderno.
 3. Preencha o formulário e clique em **Enviar** (a ação de envio pode ser adaptada para backend posteriormente).
 
+=======
+# Trabalho-Html-Cefet-011
+Projeto para a aula 11, estudos de desenvolvimento para internet do CEFET
+>>>>>>> 5bccfc9b7015a781f7ff615ce7b7a55f635fb0bc
